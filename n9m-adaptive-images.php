@@ -51,7 +51,7 @@ class NewNineAdaptiveImages{
         if( !$notice && $pagenow == 'plugins.php' ){
             printf(
                 '<div class="updated"><p>Thanks for activating Adaptive Images! Please <a href="%1$s" target="_blank"><u>rate it</u></a> so we know if we should keep building great plugins like this one. New Nine is <a href="%2$s" target="_blank">on Facebook</a> | <a href="%3$s" target="_blank">on Twitter</a> | <a href="%4$s" target="_blank">on Google+</a> | <a href="%6$s">Delete this notice</a></p></div>' ,
-                'rating_url',
+                'http://wordpress.org/plugins/new-nine-adaptive-images/',
                 'http://www.facebook.com/new9media',
                 'http://twitter.com/NewNineMedia',
                 'http://plus.google.com/u/0/116091776202640137729',
