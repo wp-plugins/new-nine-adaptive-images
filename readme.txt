@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-New Nine's Adaptive Images plugin detects your visitor's screen size and automatically creates, caches, and delivers device appropriate re-scaled versions of your uploaded images.
+Detects your visitor's screen size and automatically creates, caches, and delivers device appropriate re-scaled versions of your uploaded images.
 
 == Description ==
 
