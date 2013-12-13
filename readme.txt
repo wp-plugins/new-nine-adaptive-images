@@ -3,7 +3,7 @@ Contributors: New Nine
 Author URI: http://www.newnine.com
 Tags: adaptive images, responsive images, responsive design
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 3.8
 Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -60,6 +60,16 @@ You can customize your breakpoints and more by visiting 'Settings -> Media' in y
 You are now adaptive (and awesome)!
 
 == Frequently Asked Questions ==
+
+= Help! It's not changing my images! =
+
+Are you sure? You won't see any change in the image url. The "change" happens behind the scene as the plugin loads the appropriately scaled image using the same URL. If you are looking for a different URL on smaller devices, don't - you won't see one.
+
+Of course, make sure it's set up properly too :)
+
+= Help! It's not creating the cached images! =
+
+Are you sure? You won't see different image sizes just by shrinking and expanding your browser. You need to visit the site from a phone or tablet (or something with a smaller screen) and then check to see that the smaller cached images are (or are not) being created.
 
 = What should my breakpoints be? =
 
